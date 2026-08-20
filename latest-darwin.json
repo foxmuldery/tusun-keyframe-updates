@@ -33,6 +33,21 @@
       "size": 612737
     }
   ],
-  "notes": "新增本机 API 设置、GPT‑5.6 Luna Responses、GPT‑Image‑2‑VIP 4K 与可选 Nano Banana 编辑。安装包不包含 API Key 或项目数据。",
+  "notes": "新增本机 API 设置、GPT‑5.6 Luna Responses、GPT‑Image‑2‑VIP 4K 与可选 Nano Banana 编辑。安装包不包含 API Key 或项目数据。支持 v1.5.3 基线的安全增量更新。",
+  "delta": {
+    "from_version": "1.5.3",
+    "base_tree_sha256": "840c47bd6cdec7abfb4993b8e038aaacccd4d847900e4a4ae5a295967df42e0c",
+    "target_tree_sha256": "96410637a707d59a172d07cb4efb3b2869a173ce2c4e4d58b5f7736ac214c5af",
+    "url": "",
+    "sha256": "c4010b879e65b8163cb6c9bada58a9963411cfd737c3e0986b9fff9891bb704a",
+    "size": 7181724,
+    "parts": [
+      {
+        "url": "https://raw.githubusercontent.com/foxmuldery/tusun-keyframe-updates/main/%E5%85%94%E7%8B%B2%E5%85%B3%E9%94%AE%E5%B8%A7%E7%94%9F%E4%BA%A7%E4%B8%8E%E9%AA%8C%E6%94%B6%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E6%A1%8C%E9%9D%A2%E5%B7%AE%E5%88%86-darwin-v1.5.3-to-v1.6.0.zip.part-01",
+        "sha256": "c4010b879e65b8163cb6c9bada58a9963411cfd737c3e0986b9fff9891bb704a",
+        "size": 7181724
+      }
+    ]
+  },
   "published_at": "2026-08-20T21:04:11+08:00"
 }
