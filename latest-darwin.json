@@ -1,0 +1,11 @@
+{
+  "schema": "tusun-keyframe-desktop-update/v1",
+  "product": "兔狲关键帧生产与验收工作台",
+  "version": "1.6.0",
+  "platform": "darwin",
+  "url": "https://github.com/foxmuldery/tusun-keyframe-updates/releases/download/v1.6.0/%E5%85%94%E7%8B%B2%E5%85%B3%E9%94%AE%E5%B8%A7%E7%94%9F%E4%BA%A7%E4%B8%8E%E9%AA%8C%E6%94%B6%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E6%A1%8C%E9%9D%A2%E7%89%88-darwin-v1.6.0.zip",
+  "sha256": "ab9c0fd8d5390035cda90145cac80c0b6c8560114aa19590bfe8902364889682",
+  "size": 34162415,
+  "notes": "新增本机 API 设置、GPT‑5.6 Luna Responses、GPT‑Image‑2‑VIP 4K 与可选 Nano Banana 编辑。安装包不包含 API Key 或项目数据。",
+  "published_at": "2026-08-20T20:22:00+08:00"
+}
